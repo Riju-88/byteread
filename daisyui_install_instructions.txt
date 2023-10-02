@@ -1,0 +1,76 @@
+After modifying tailwind.config.js, MAKE SURE TO RUN:
+./tailwindcss -i ./css/input.css -o ./css/output.css --watch
+
+here are the steps to install Tailwind CSS and DaisyUI in your PHP project:
+
+**Tailwind CSS:**
+1. Download the CLI for the preferred version of Tailwind and for the correct operating system from [here] https://github.com/tailwindlabs/tailwindcss/releases.
+
+2. Copy it to your project root directory and rename it to `tailwindcss.exe`.
+
+3. Open your project root directory in terminal/command-line and run the command `./tailwindcss init`. This will create a `tailwind.config.js` file.
+
+4. Add the paths to all of your template files in your `tailwind.config.js` file inside the content array 
+
+module.exports = {
+  content: [
+    './*.php',
+    // ...
+  ],
+  // ...
+}
+
+5. In your CSS folder, create an `input.css` file and add the following in it:
+    ```
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+    ```
+6. Run this command in terminal/command-line: `./tailwindcss -i ./css/input.css -o ./css/output.css --watch`. (Input and output file names and paths can be different, this will also create the directory and output.css file if not available)
+
+7. Add a link tag to `output.css` file in your HTML (e.g. `<link rel="stylesheet" href="./src/css/output.css">`)¹.
+
+**DaisyUI:**
+1. You need Node.js and Tailwind CSS installed.
+2. Install DaisyUI: `npm i -D daisyui@latest`.
+3. Then add DaisyUI to your `tailwind.config.js` files:
+    ```
+    /** @type {import('tailwindcss').Config} */
+module.exports = {
+  daisyui: {
+    themes: [
+      {
+        mytheme: {
+        
+"primary": "#ffd700",
+        
+"secondary": "#098265",
+        
+"accent": "#1fb2a6",
+        
+"neutral": "#2a323c",
+        
+"base-100": "#1d232a",
+        
+"info": "#3abff8",
+        
+"success": "#1bb66b",
+        
+"warning": "#fbbd23",
+        
+"error": "#f87272",
+        },
+      },
+    ],
+  },
+  content: [ './*.php',],
+  theme: {
+    extend: {},
+  },
+  plugins: [require('daisyui')],
+}
+
+
+    ```
+  modify theme as needed.
+

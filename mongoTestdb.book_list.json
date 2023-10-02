@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "65047128110cfce74409f156"
+  },
+  "title": "The Oldest Word",
+  "author": "Johny Firic",
+  "genre": "Historical Fiction",
+  "cover_image_url": "images/65047128110cfce74409f156.jpg",
+  "pdf_url": "pdfs/65047128110cfce74409f156.pdf"
+},
+{
+  "_id": {
+    "$oid": "65073cee043b833d2c0a6fc3"
+  },
+  "title": "David Copperfield",
+  "author": "Charles Dickens",
+  "genre": "Novel",
+  "cover_image_url": "images/65073cee043b833d2c0a6fc3.jpg",
+  "pdf_url": "pdfs/65073cee043b833d2c0a6fc3.pdf"
+},
+{
+  "_id": {
+    "$oid": "65073e0f043b833d2c0a6fc4"
+  },
+  "title": "The Tragedy of Macbeth",
+  "author": "William Shakespeare",
+  "genre": "Tragedy",
+  "cover_image_url": "images/65073e0f043b833d2c0a6fc4.jpg",
+  "pdf_url": "pdfs/65073e0f043b833d2c0a6fc4.pdf"
+}]

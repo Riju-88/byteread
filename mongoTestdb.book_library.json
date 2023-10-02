@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6507321c043b833d2c0a6fc2"
+  },
+  "user_id": "64fcd57631dcf00d04043d34",
+  "book_id": "65047128110cfce74409f156",
+  "favorite": 1
+},
+{
+  "_id": {
+    "$oid": "650b4090c90d5073e8028c6a"
+  },
+  "user_id": "64fcd57631dcf00d04043d34",
+  "book_id": "65073cee043b833d2c0a6fc3",
+  "favorite": 1
+}]

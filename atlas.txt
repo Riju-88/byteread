@@ -1,0 +1,1 @@
+in database acess click edit and change / confirm the password. it is the same password for connection
