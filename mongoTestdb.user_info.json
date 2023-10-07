@@ -29,4 +29,40 @@
   "email": "aaa@gmail.com",
   "image": null,
   "password": "$2y$10$HgEvHdCerVBWMVfnxKvEEOUr/ciW1Y4mgEjbQrWkTJOezilhT0YKm"
+},
+{
+  "_id": {
+    "$oid": "65214f1067ec6956ce018a52"
+  },
+  "username": "Kudo",
+  "email": "nesplayer01@gmail.com",
+  "image": "images/65214f101be07_google_image.jpg",
+  "password": "$2y$10$FnX907JqtWgH3yHtGc1Jt.Qv/Ov8hwTPjUEu/Z.5NODYI7sdS2ClC"
+},
+{
+  "_id": {
+    "$oid": "65215ae27aee91ed6808edb2"
+  },
+  "username": "Ultimate Fighter",
+  "email": "ufighter86@gmail.com",
+  "image": "images/65215ae296d45_google_image.jpg",
+  "password": "$2y$10$jfcZSbPGA.54O0wQfmonzekr760ePj6Sb.OyGF98.qzbRsBXlOw4G"
+},
+{
+  "_id": {
+    "$oid": "65216350ce268a8fdc0670dd"
+  },
+  "username": "Riju Mistri",
+  "email": "rijumistri4@gmail.com",
+  "image": "images/6521635067e86_google_image.jpg",
+  "password": "$2y$10$HkuwAF65TkchfCqO4peUb.YTTERz6GTFPOL6J8dLMz5Ivz6Nyb9SS"
+},
+{
+  "_id": {
+    "$oid": "65216a2dce268a8fdc0670e4"
+  },
+  "username": "Bio Racoon",
+  "email": "nekketsu1992@gmail.com",
+  "image": "images/65216a2dd4f04_google_image.jpg",
+  "password": "$2y$10$cfC.Bhu3TkYfcs0jQyu96OXeobBTBenocYyAUG8FHzR2WyLRqJST."
 }]

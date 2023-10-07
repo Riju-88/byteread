@@ -27,4 +27,64 @@
   "genre": "Tragedy",
   "cover_image_url": "images/65073e0f043b833d2c0a6fc4.jpg",
   "pdf_url": "pdfs/65073e0f043b833d2c0a6fc4.pdf"
+},
+{
+  "_id": {
+    "$oid": "6521629bce268a8fdc0670d8"
+  },
+  "title": "The Phantom of the Opera",
+  "author": "Gaston Leroux",
+  "genre": "Gothic fiction, Theatre-fiction, Romance, Mystery, Horror",
+  "cover_image_url": "images/6521629bce268a8fdc0670d8.jpg",
+  "pdf_url": "pdfs/6521629bce268a8fdc0670d8.pdf"
+},
+{
+  "_id": {
+    "$oid": "65216accce268a8fdc0670eb"
+  },
+  "title": "Ulysses",
+  "author": "James Joyce",
+  "genre": "Modernist Novel",
+  "cover_image_url": "images/65216accce268a8fdc0670eb.jpg",
+  "pdf_url": "pdfs/65216accce268a8fdc0670eb.pdf"
+},
+{
+  "_id": {
+    "$oid": "65216b7ace268a8fdc0670ec"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "genre": "Novel, Romance, Realism, Historical Fiction, Satire",
+  "cover_image_url": "images/65216b7ace268a8fdc0670ec.jpg",
+  "pdf_url": "pdfs/65216b7ace268a8fdc0670ec.pdf"
+},
+{
+  "_id": {
+    "$oid": "65216c20ce268a8fdc0670ed"
+  },
+  "title": "Beowulf",
+  "author": "Anonymous",
+  "genre": "Heroic Epic",
+  "cover_image_url": "images/65216c20ce268a8fdc0670ed.jpg",
+  "pdf_url": "pdfs/65216c20ce268a8fdc0670ed.pdf"
+},
+{
+  "_id": {
+    "$oid": "65216c4cce268a8fdc0670ee"
+  },
+  "title": "Darwin and Modern Science",
+  "author": "A C Seward",
+  "genre": "Science, History, Biography, Evolutionary Biology",
+  "cover_image_url": "images/65216c4cce268a8fdc0670ee.jpg",
+  "pdf_url": "pdfs/65216c4cce268a8fdc0670ee.pdf"
+},
+{
+  "_id": {
+    "$oid": "65216d74ce268a8fdc0670ef"
+  },
+  "title": "The Call of the Wild",
+  "author": "Jack London",
+  "genre": "Dog Story, Naturalism, Adventure, Novel",
+  "cover_image_url": "images/65216d74ce268a8fdc0670ef.jpg",
+  "pdf_url": "pdfs/65216d74ce268a8fdc0670ef.pdf"
 }]

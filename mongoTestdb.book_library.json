@@ -13,4 +13,132 @@
   "user_id": "64fcd57631dcf00d04043d34",
   "book_id": "65073cee043b833d2c0a6fc3",
   "favorite": 1
+},
+{
+  "_id": {
+    "$oid": "65216310ce268a8fdc0670d9"
+  },
+  "user_id": "65215ae27aee91ed6808edb2",
+  "book_id": "6521629bce268a8fdc0670d8",
+  "favorite": 0
+},
+{
+  "_id": {
+    "$oid": "65216312ce268a8fdc0670da"
+  },
+  "user_id": "65215ae27aee91ed6808edb2",
+  "book_id": "65073cee043b833d2c0a6fc3",
+  "favorite": 0
+},
+{
+  "_id": {
+    "$oid": "65216316ce268a8fdc0670db"
+  },
+  "user_id": "65215ae27aee91ed6808edb2",
+  "book_id": "65073e0f043b833d2c0a6fc4",
+  "favorite": 0
+},
+{
+  "_id": {
+    "$oid": "65216317ce268a8fdc0670dc"
+  },
+  "user_id": "65215ae27aee91ed6808edb2",
+  "book_id": "65047128110cfce74409f156",
+  "favorite": 0
+},
+{
+  "_id": {
+    "$oid": "6521635ece268a8fdc0670de"
+  },
+  "user_id": "65216350ce268a8fdc0670dd",
+  "book_id": "65073cee043b833d2c0a6fc3",
+  "favorite": 0
+},
+{
+  "_id": {
+    "$oid": "65216360ce268a8fdc0670df"
+  },
+  "user_id": "65216350ce268a8fdc0670dd",
+  "book_id": "6521629bce268a8fdc0670d8",
+  "favorite": 0
+},
+{
+  "_id": {
+    "$oid": "65216363ce268a8fdc0670e0"
+  },
+  "user_id": "65216350ce268a8fdc0670dd",
+  "book_id": "65047128110cfce74409f156",
+  "favorite": 0
+},
+{
+  "_id": {
+    "$oid": "65216367ce268a8fdc0670e1"
+  },
+  "user_id": "65216350ce268a8fdc0670dd",
+  "book_id": "65073e0f043b833d2c0a6fc4",
+  "favorite": 0
+},
+{
+  "_id": {
+    "$oid": "65216a84ce268a8fdc0670e7"
+  },
+  "user_id": "65216a2dce268a8fdc0670e4",
+  "book_id": "65073cee043b833d2c0a6fc3",
+  "favorite": 0
+},
+{
+  "_id": {
+    "$oid": "65216a85ce268a8fdc0670e8"
+  },
+  "user_id": "65216a2dce268a8fdc0670e4",
+  "book_id": "65073e0f043b833d2c0a6fc4",
+  "favorite": 1
+},
+{
+  "_id": {
+    "$oid": "65216a86ce268a8fdc0670e9"
+  },
+  "user_id": "65216a2dce268a8fdc0670e4",
+  "book_id": "6521629bce268a8fdc0670d8",
+  "favorite": 1
+},
+{
+  "_id": {
+    "$oid": "65216a87ce268a8fdc0670ea"
+  },
+  "user_id": "65216a2dce268a8fdc0670e4",
+  "book_id": "65047128110cfce74409f156",
+  "favorite": 0
+},
+{
+  "_id": {
+    "$oid": "65216fedce268a8fdc0670f2"
+  },
+  "user_id": "65216a2dce268a8fdc0670e4",
+  "book_id": "65216c20ce268a8fdc0670ed",
+  "favorite": 1
+},
+{
+  "_id": {
+    "$oid": "65216fefce268a8fdc0670f3"
+  },
+  "user_id": "65216a2dce268a8fdc0670e4",
+  "book_id": "65216d74ce268a8fdc0670ef",
+  "favorite": 1
+},
+{
+  "_id": {
+    "$oid": "65216ff1ce268a8fdc0670f4"
+  },
+  "user_id": "65216a2dce268a8fdc0670e4",
+  "book_id": "65216c4cce268a8fdc0670ee",
+  "favorite": 0
+},
+{
+  "_id": {
+    "$oid": "6521705bce268a8fdc0670f5"
+  },
+  "user_id": "65216a2dce268a8fdc0670e4",
+  "book_id": "65216b7ace268a8fdc0670ec",
+  "favorite": 0
 }]

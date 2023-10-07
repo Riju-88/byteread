@@ -47,7 +47,7 @@ require_once 'vendor/autoload.php';
 // init configuration
 $clientID = '790367901050-5f5kkpj7qlbak5062r09jfs4au13s76h.apps.googleusercontent.com';
 $clientSecret = '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';
-$redirectUri = 'http://localhost/byteread/redirect.php';
+$redirectUri = 'http://localhost:8081/byteread/redirect.php';
 
 // create Client Request to access Google API
 $client = new Google_Client();

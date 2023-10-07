@@ -48,7 +48,7 @@ This project reflects my commitment to continuous learning, and I'm thrilled to 
         Note: All the books distributed on this website is for educational purposes only. These books may also be available on other online sources for free.
       </p>
       <p class="py-4 font-bold">
-        Source Code of this project can be found on my github page: <a href="https://github.com/Riju-88/byteread">https://github.com/Riju-88/byteread</a>
+        Source Code of this project can be found on my github page: <a href="https://github.com/Riju-88/byteread" class="link link-primary" target="_blank">https://github.com/Riju-88/byteread</a>
       </p>
     </div>
   </div>

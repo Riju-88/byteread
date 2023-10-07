@@ -43,7 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
  // Debug session data
         exit;
     } else {
-        header("Location: index.php?error='Invalid credentials. Please try again.'");
+        header("Location: login.php?error='Invalid credentials. Please try again.'");
         // Display an error message or redirect to a login page with an error
         echo "Invalid credentials. Please try again.";
     }
